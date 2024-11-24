@@ -80,9 +80,9 @@ As my first step into cybersecurity, I created a virtual lab environment using V
 ## Screenshots
 
 ### Step 1: VirtualBox setup for Kali Linux
-![Kali Linux Install](Kali_Linux.png),
-![Setting up Kali Linux](Set_up_kali_Linux.png),
-![Setting up Kali Linux](Set_up_kali_Linux_part_2.png),
+![Kali Linux Install](Kali_Linux.png)
+![Setting up Kali Linux](Set_up_kali_Linux.png)
+![Setting up Kali Linux](Set_up_kali_Linux_part_2.png)
 ![Kali Linux Homepage](Kali_Linux_Homepage.png)
 
 ### Step 2: Nmap command in the Kali Linux terminal
